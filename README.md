@@ -7,9 +7,11 @@
 
 ## About me
 
-<p>
+
+<strong>
   Hello everyone! I'm front-end developer and UX/UI designer. It's my passion. I very like everything that has to do with development. I like study. I'm currently freelance.  
-</p>
+</strong>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kostek-huszcza-330704221/">
