@@ -11,6 +11,12 @@
   Hello everyone! I'm front-end developer and UX/UI designer. It's my passion. I very like everything that has to do with development. I like study. I'm currently freelance.  
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/kostek-huszcza-330704221/">
+     <img width="200px" height="50px" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white"/>
+  </a>
+</p>
+
 
 ## My stack technologies
 
