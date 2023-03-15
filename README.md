@@ -1,4 +1,4 @@
-<p align="right">
+<p align="left">
   <img width="400px" src="https://i.ibb.co/sb5j1cb/main.png" alt="logo" />
 </p>
 
