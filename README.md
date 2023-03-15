@@ -1,6 +1,8 @@
-<p align="left">
-  <img width="400px" src="https://i.ibb.co/sb5j1cb/main.png" alt="logo" />
+<p align="center">
+  <img width="500px" src="https://i.ibb.co/sb5j1cb/main.png" alt="logo" />
 </p>
+
+<p align="center"> <img src="https://user-images.githubusercontent.com/120065120/212209674-07b3685e-1127-4f42-9871-3a423d343fa2.svg" /> </p>****
 
 
 ## About me
