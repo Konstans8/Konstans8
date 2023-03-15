@@ -3,9 +3,6 @@
 </p>
 
 
-
-### Hi there 👋
-
 ## About me
 
 <p>
