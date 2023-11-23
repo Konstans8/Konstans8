@@ -1,9 +1,7 @@
-<!--<p align="center">
-  <img width="800px" src="https://assets-global.website-files.com/608a88369ffab4f5de1ed321/63f35253b68fbb93f5aedf7b_JavaScript-code.jpeg" alt="logo" />
-</p>-->
 <p align="center">
-  <img width="800px" src="https://www.thoughtco.com/thmb/OWtQKW1HeFbJi3UZQMH_BskLzQc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/css-code-in-text-editor--web-page-internet-technology-862672426-5c8455ddc9e77c0001a67650.jpg" />
+  <img width="800px" src="https://assets-global.website-files.com/608a88369ffab4f5de1ed321/63f35253b68fbb93f5aedf7b_JavaScript-code.jpeg" alt="logo" />
 </p>
+
 
 <p align="center"> <img src="https://user-images.githubusercontent.com/120065120/212209674-07b3685e-1127-4f42-9871-3a423d343fa2.svg" /> </p>
 
