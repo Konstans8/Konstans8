@@ -1,5 +1,5 @@
 <!--<p align="center">
-  <img width="800px" heigth="400" src="https://i.ibb.co/7Jb3Dk6/main.jpg" alt="logo" />
+  <img width="800px" src="https://assets-global.website-files.com/608a88369ffab4f5de1ed321/63f35253b68fbb93f5aedf7b_JavaScript-code.jpeg" alt="logo" />
 </p>-->
 <p align="center">
   <img width="800px" src="https://www.thoughtco.com/thmb/OWtQKW1HeFbJi3UZQMH_BskLzQc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/css-code-in-text-editor--web-page-internet-technology-862672426-5c8455ddc9e77c0001a67650.jpg" />
