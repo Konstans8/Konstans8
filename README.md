@@ -24,30 +24,30 @@
 
 ## My stack technologies
 
-<div margin="20px">
-  <img width="50px" height="50px" padding="10px" src="./logo/js.webp" alt="js" >
-  <img width="50px" height="50px" padding="10px" src="./logo/html.png" alt="html" >
-  <img width="50px" height="50px" padding="10px" src="./logo/css.webp" alt="css" >
-  <img width="50px" height="50px" padding="10px" src="./logo/next.png" alt="next" >
-  <img width="50px" height="50px" padding="10px" src="./logo/react.webp" alt="react" >
-  <img width="100px" height="50px" padding="10px" src="./logo/sql.png" alt="sql" >
-  <img width="30px" height="50px" padding="10px" src="./logo/gulp.png" alt="gulp" >
-  <img width="50px" height="50px" padding="10px" src="./logo/scss.webp" alt="scss" >
-  <img width="80px" height="40px" padding="10px" src="./logo/php.png" alt="php" >
-  <img width="50px" height="50px" padding="10px" src="./logo/python.png" alt="py" >
+<div>
+  <img width="50px" height="50px" src="./logo/js.webp" alt="js" style="padding=20px">
+  <img width="50px" height="50px" src="./logo/html.png" alt="html" >
+  <img width="50px" height="50px" src="./logo/css.webp" alt="css" >
+  <img width="50px" height="50px" src="./logo/next.png" alt="next" >
+  <img width="50px" height="50px" src="./logo/react.webp" alt="react" >
+  <img width="100px" height="50px" src="./logo/sql.png" alt="sql" >
+  <img width="30px" height="50px" src="./logo/gulp.png" alt="gulp" >
+  <img width="50px" height="50px" src="./logo/scss.webp" alt="scss" >
+  <img width="80px" height="40px" src="./logo/php.png" alt="php" >
+  <img width="50px" height="50px" src="./logo/python.png" alt="py" >
 </div>
 
 
 ## Instuments
 
-<div margin="20px">
-  <img width="50px" height="50px" padding="20px" src="./logo_instr/vscode.webp" alt="vscode" >
-  <img width="80px" height="50px" padding="20px" src="./logo_instr/figma.png" alt="figma" >
-  <img width="50px" height="50px" padding="20px" src="./logo_instr/pychamp.png" alt="pychamp" >
-  <img width="50px" height="50px" padding="20px" src="./logo_instr/docker.png" alt="docker" >
-  <img width="50px" height="50px" padding="20px" src="./logo_instr/insomnia.png" alt="ins" >
-  <img width="50px" height="50px" padding="20px" src="./logo_instr/postman.png" alt="post" >
-  <img width="50px" height="50px" padding="20px" src="./logo_instr/vb.png" alt="vb" >
+<div>
+  <img width="50px" height="50px" src="./logo_instr/vscode.webp" alt="vscode" >
+  <img width="80px" height="50px" src="./logo_instr/figma.png" alt="figma" >
+  <img width="50px" height="50px" src="./logo_instr/pychamp.png" alt="pychamp" >
+  <img width="50px" height="50px" src="./logo_instr/docker.png" alt="docker" >
+  <img width="50px" height="50px" src="./logo_instr/insomnia.png" alt="ins" >
+  <img width="50px" height="50px" src="./logo_instr/postman.png" alt="post" >
+  <img width="50px" height="50px" src="./logo_instr/vb.png" alt="vb" >
 </div>
 
 
