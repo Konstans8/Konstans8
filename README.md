@@ -25,16 +25,16 @@
 ## My stack technologies
 
 <div>
-  <img width="50px" height="50px" src="./logo/js.webp" alt="js" >
-  <img width="50px" height="50px" src="./logo/html.png" alt="html" >
-  <img width="50px" height="50px" src="./logo/css.webp" alt="css" >
-  <img width="50px" height="50px" src="./logo/next.png" alt="next" >
-  <img width="50px" height="50px" src="./logo/react.webp" alt="react" >
-  <img width="50px" height="50px" src="./logo/sql.png" alt="sql" >
-  <img width="50px" height="50px" src="./logo/gulp.png" alt="gulp" >
-  <img width="50px" height="50px" src="./logo/scss.webp" alt="scss" >
-  <img width="50px" height="50px" src="./logo/php.png" alt="php" >
-  <img width="50px" height="50px" src="./logo/python.png" alt="py" >
+  <img width="50px" height="50px" padding="10px" src="./logo/js.webp" alt="js" >
+  <img width="50px" height="50px" padding="10px" src="./logo/html.png" alt="html" >
+  <img width="50px" height="50px" padding="10px" src="./logo/css.webp" alt="css" >
+  <img width="50px" height="50px" padding="10px" src="./logo/next.png" alt="next" >
+  <img width="50px" height="50px" padding="10px" src="./logo/react.webp" alt="react" >
+  <img width="100px" height="50px" padding="10px" src="./logo/sql.png" alt="sql" >
+  <img width="30px" height="50px" padding="10px" src="./logo/gulp.png" alt="gulp" >
+  <img width="50px" height="50px" padding="10px" src="./logo/scss.webp" alt="scss" >
+  <img width="100px" height="50px" padding="10px" src="./logo/php.png" alt="php" >
+  <img width="50px" height="50px" padding="10px" src="./logo/python.png" alt="py" >
 </div>
 
 
