@@ -24,6 +24,10 @@
 
 ## My stack technologies
 
+<div>
+  <img src="./logo/js.webp" alt="js">
+</div>
+
 
 
 
