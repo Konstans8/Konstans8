@@ -33,8 +33,21 @@
   <img width="100px" height="50px" padding="10px" src="./logo/sql.png" alt="sql" >
   <img width="30px" height="50px" padding="10px" src="./logo/gulp.png" alt="gulp" >
   <img width="50px" height="50px" padding="10px" src="./logo/scss.webp" alt="scss" >
-  <img width="100px" height="50px" padding="10px" src="./logo/php.png" alt="php" >
+  <img width="80px" height="40px" padding="10px" src="./logo/php.png" alt="php" >
   <img width="50px" height="50px" padding="10px" src="./logo/python.png" alt="py" >
+</div>
+
+
+## Instuments
+
+<div>
+  <img width="50px" height="50px" padding="10px" src="./logo_instr/vscode.webp" alt="vscode" >
+  <img width="50px" height="50px" padding="10px" src="./logo_instr/figma.png" alt="figma" >
+  <img width="50px" height="50px" padding="10px" src="./logo_instr/pychamp.png" alt="pychamp" >
+  <img width="50px" height="50px" padding="10px" src="./logo_instr/docker.png" alt="docker" >
+  <img width="50px" height="50px" padding="10px" src="./logo_instr/insomnia.png" alt="ins" >
+  <img width="50px" height="50px" padding="10px" src="./logo_instr/postman.png" alt="post" >
+  <img width="50px" height="50px" padding="10px" src="./logo_instr/vb.png" alt="vb" >
 </div>
 
 
