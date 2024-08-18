@@ -24,7 +24,7 @@
 
 ## My stack technologies
 
-<div>
+<div margin="20px">
   <img width="50px" height="50px" padding="10px" src="./logo/js.webp" alt="js" >
   <img width="50px" height="50px" padding="10px" src="./logo/html.png" alt="html" >
   <img width="50px" height="50px" padding="10px" src="./logo/css.webp" alt="css" >
@@ -40,7 +40,7 @@
 
 ## Instuments
 
-<div>
+<div margin="20px">
   <img width="50px" height="50px" padding="20px" src="./logo_instr/vscode.webp" alt="vscode" >
   <img width="80px" height="50px" padding="20px" src="./logo_instr/figma.png" alt="figma" >
   <img width="50px" height="50px" padding="20px" src="./logo_instr/pychamp.png" alt="pychamp" >
