@@ -25,7 +25,7 @@
 ## My stack technologies
 
 <div>
-  <img src="./logo/js.webp" alt="js">
+  <img width="50px" height="50px" src="./logo/js.webp" alt="js" >
 </div>
 
 
