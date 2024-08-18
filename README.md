@@ -41,13 +41,13 @@
 ## Instuments
 
 <div>
-  <img width="50px" height="50px" padding="10px" src="./logo_instr/vscode.webp" alt="vscode" >
-  <img width="50px" height="50px" padding="10px" src="./logo_instr/figma.png" alt="figma" >
-  <img width="50px" height="50px" padding="10px" src="./logo_instr/pychamp.png" alt="pychamp" >
-  <img width="50px" height="50px" padding="10px" src="./logo_instr/docker.png" alt="docker" >
-  <img width="50px" height="50px" padding="10px" src="./logo_instr/insomnia.png" alt="ins" >
-  <img width="50px" height="50px" padding="10px" src="./logo_instr/postman.png" alt="post" >
-  <img width="50px" height="50px" padding="10px" src="./logo_instr/vb.png" alt="vb" >
+  <img width="50px" height="50px" padding="20px" src="./logo_instr/vscode.webp" alt="vscode" >
+  <img width="80px" height="50px" padding="20px" src="./logo_instr/figma.png" alt="figma" >
+  <img width="50px" height="50px" padding="20px" src="./logo_instr/pychamp.png" alt="pychamp" >
+  <img width="50px" height="50px" padding="20px" src="./logo_instr/docker.png" alt="docker" >
+  <img width="50px" height="50px" padding="20px" src="./logo_instr/insomnia.png" alt="ins" >
+  <img width="50px" height="50px" padding="20px" src="./logo_instr/postman.png" alt="post" >
+  <img width="50px" height="50px" padding="20px" src="./logo_instr/vb.png" alt="vb" >
 </div>
 
 
