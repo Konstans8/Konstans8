@@ -24,16 +24,6 @@
 
 ## My stack technologies
 
-<div display="inline">
-  <a href="https://reactjs.org/"><img width="150px" height="50px" src="https://img.shields.io/badge/React-grey?style=for-the-badge&logo=React&logoColor=blue"/></a>
-  <a href="https://reactjs.org/"><img width="150px" height="50px" src="https://img.shields.io/badge/SQL?style=for-the-badge&logo=React&logoColor=blue"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img width="230px" height="50px" src="https://img.shields.io/badge/JavaScript-grey?style=for-the-badge&logo=JavaScript&logoColor=yellow"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img width="160px" height="50px" src="https://img.shields.io/badge/HTML5-grey?style=for-the-badge&logo=HTML5&logoColor=red"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img width="140px" height="50px" src="https://img.shields.io/badge/CSS3-grey?style=for-the-badge&logo=CSS3&logoColor=blue"/></a>
-  <a href="https://sass-lang.com/documentation/"><img width="130px" height="50px" src="https://img.shields.io/badge/Scss-grey?style=for-the-badge&logo=Sass&logoColor=darkgrey"/></a>
-  <a href="https://gulpjs.com/"><img width="140px" height="50px" src="https://img.shields.io/badge/Gulp-grey?style=for-the-badge&logo=gulp&logoColor=red"/></a>
-  <a href="https://www.npmjs.com/"><img width="130px" height="50px" src="https://img.shields.io/badge/npm-grey?style=for-the-badge&logo=npm&logoColor=red"/></a>
-</div>
 
 
 
