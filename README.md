@@ -6,10 +6,10 @@
 <p align="center"> <img src="https://user-images.githubusercontent.com/120065120/212209674-07b3685e-1127-4f42-9871-3a423d343fa2.svg" /> </p>
 
 
-## About me
+<!--## About me-->
 
 
-<strong>
+<!--<strong>
   Hello everyone! I'm a web developer and UX/UI designer.
 </strong>
 
@@ -19,12 +19,12 @@
    <a href="https://www.behance.net/kostekhuszcza">
      <img width="200px" height="50px" src="https://img.shields.io/badge/Behance-black?style=for-the-badge&logo=Behance&logoColor=white"/>
   </a>
-</p>
+</p>-->
 
 
-## My stack technologies
+<!--## My stack technologies-->
 
-<div>
+<!--<div>
   <img width="50px" height="50px" src="./logo/js.webp" alt="js" style="padding=20px">
   <img width="50px" height="50px" src="./logo/html.png" alt="html" >
   <img width="50px" height="50px" src="./logo/css.webp" alt="css" >
@@ -35,12 +35,12 @@
   <img width="50px" height="50px" src="./logo/scss.webp" alt="scss" >
   <img width="80px" height="40px" src="./logo/php.png" alt="php" >
   <img width="50px" height="50px" src="./logo/python.png" alt="py" >
-</div>
+</div>-->
 
 
-## Instuments
+<!--## Instuments-->
 
-<div>
+<!--<div>
   <img width="50px" height="50px" src="./logo_instr/vscode.webp" alt="vscode" >
   <img width="80px" height="50px" src="./logo_instr/figma.png" alt="figma" >
   <img width="50px" height="50px" src="./logo_instr/pychamp.png" alt="pychamp" >
@@ -48,7 +48,7 @@
   <img width="50px" height="50px" src="./logo_instr/insomnia.png" alt="ins" >
   <img width="50px" height="50px" src="./logo_instr/postman.png" alt="post" >
   <img width="50px" height="50px" src="./logo_instr/vb.png" alt="vb" >
-</div>
+</div>-->
 
 
 
