@@ -18,60 +18,15 @@
 
 
 
-<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5" alt="HTML logo" title="HTML" height="25"/>
-
-<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS logo" title="CSS" height="25"/>
-
-<img src="https://img.shields.io/badge/SASS-282C34?logo=sass" alt="SASS logo" title="SASS" height="25"/>
-
-<img src="https://img.shields.io/badge/Gulp-282C34?logo=gulp" alt="Gulp logo" title="Gulp" height="25"/>
-
-<img src="https://img.shields.io/badge/GIT-282C34?logo=git&logoColor=red" alt="GIT logo" title="GIT" height="25"/>
-
-<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JS logo" title="JS" height="25"/>
-
-<img src="https://img.shields.io/badge/NPM-282C34?logo=npm&logoColor=red" alt="NPM logo" title="NPM" height="25"/>
-
-<img src="https://img.shields.io/badge/React-282C34?logo=react" alt="React logo" title="React" height="25"/>
-
-<img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" alt="Next logo" title="Next" height="25"/>
-
-<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" alt="MongoDB logo" title="MongoDB" height="25"/>
+<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5" alt="HTML logo" title="HTML" height="25"/> <img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS logo" title="CSS" height="25"/> <img src="https://img.shields.io/badge/SASS-282C34?logo=sass" alt="SASS logo" title="SASS" height="25"/> <img src="https://img.shields.io/badge/Gulp-282C34?logo=gulp" alt="Gulp logo" title="Gulp" height="25"/> <img src="https://img.shields.io/badge/GIT-282C34?logo=git&logoColor=red" alt="GIT logo" title="GIT" height="25"/> <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JS logo" title="JS" height="25"/> <img src="https://img.shields.io/badge/NPM-282C34?logo=npm&logoColor=red" alt="NPM logo" title="NPM" height="25"/> <img src="https://img.shields.io/badge/React-282C34?logo=react" alt="React logo" title="React" height="25"/> <img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" alt="Next logo" title="Next" height="25"/> <img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" alt="MongoDB logo" title="MongoDB" height="25"/>
 
 ------
 
-<img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node logo" title="Node" height="25"/>
-
-<img src="https://img.shields.io/badge/Strapi-282C34?logo=strapi&logoColor=white" alt="Strapi logo" title="Strapi" height="25"/>
-
-<img src="https://img.shields.io/badge/PHP-282C34?logo=php" alt="PHP logo" title="PHP" height="25"/>
-
-<img src="https://img.shields.io/badge/mysql-282C34?logo=mysql&logoColor=F7DF1E" alt="SQL logo" title="SQL" height="25"/>
-
-<img src="https://img.shields.io/badge/Python-282C34?logo=python" alt="Python logo" title="Python" height="25"/>
-
-<img src="https://img.shields.io/badge/fastapi-282C34?logo=fastapi&logoColor=white" alt="Fastapi logo" title="Fastapi" height="25"/>
-
-
-<img src="https://img.shields.io/badge/filezilla-282C34?logo=filezilla&logoColor=red" alt="filezilla logo" title="filezilla" height="25"/>
+<img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node logo" title="Node" height="25"/> <img src="https://img.shields.io/badge/Strapi-282C34?logo=strapi&logoColor=white" alt="Strapi logo" title="Strapi" height="25"/> <img src="https://img.shields.io/badge/PHP-282C34?logo=php" alt="PHP logo" title="PHP" height="25"/> <img src="https://img.shields.io/badge/mysql-282C34?logo=mysql&logoColor=F7DF1E" alt="SQL logo" title="SQL" height="25"/> <img src="https://img.shields.io/badge/Python-282C34?logo=python" alt="Python logo" title="Python" height="25"/> <img src="https://img.shields.io/badge/fastapi-282C34?logo=fastapi&logoColor=white" alt="Fastapi logo" title="Fastapi" height="25"/> <img src="https://img.shields.io/badge/filezilla-282C34?logo=filezilla&logoColor=red" alt="filezilla logo" title="filezilla" height="25"/>
 
 -------
 
-<img src="https://img.shields.io/badge/Linux-282C34?logo=linux&logoColor=white" alt="Linux logo" title="Linux" height="25"/>
-
-<img src="https://img.shields.io/badge/vmware-282C34?logo=vmware&logoColor=blue" alt="VMware logo" title="VMware" height="25"/>
-
-<img src="https://img.shields.io/badge/Docker-282C34?logo=docker" alt="Docker logo" title="Docker" height="25"/>
-
-<img src="https://img.shields.io/badge/Kubernetes-282C34?logo=Kubernetes" alt="Kubernetes logo" title="Kubernetes" height="25"/>
-
-<img src="https://img.shields.io/badge/Metasploit-282C34?logo=metasploit&logoColor=blue" alt="Metasploit logo" title="Metasploit" height="25"/>
-
-<img src="https://img.shields.io/badge/KaliLinux-282C34?logo=KaliLinux&logoColor=white" alt="Kali logo" title="Kali" height="25"/>
-
-<img src="https://img.shields.io/badge/burpsuite-282C34?logo=burpsuite&logoColor=red" alt="Burp logo" title="Burp" height="25"/>
-
-<img src="https://img.shields.io/badge/owasp-282C34?logo=owasp&logoColor=red" alt="Owasp logo" title="Owasp" height="25"/>
+<img src="https://img.shields.io/badge/Linux-282C34?logo=linux&logoColor=white" alt="Linux logo" title="Linux" height="25"/> <img src="https://img.shields.io/badge/vmware-282C34?logo=vmware&logoColor=blue" alt="VMware logo" title="VMware" height="25"/> <img src="https://img.shields.io/badge/Docker-282C34?logo=docker" alt="Docker logo" title="Docker" height="25"/> <img src="https://img.shields.io/badge/Kubernetes-282C34?logo=Kubernetes" alt="Kubernetes logo" title="Kubernetes" height="25"/> <img src="https://img.shields.io/badge/Metasploit-282C34?logo=metasploit&logoColor=blue" alt="Metasploit logo" title="Metasploit" height="25"/> <img src="https://img.shields.io/badge/KaliLinux-282C34?logo=KaliLinux&logoColor=white" alt="Kali logo" title="Kali" height="25"/> <img src="https://img.shields.io/badge/burpsuite-282C34?logo=burpsuite&logoColor=red" alt="Burp logo" title="Burp" height="25"/> <img src="https://img.shields.io/badge/owasp-282C34?logo=owasp&logoColor=red" alt="Owasp logo" title="Owasp" height="25"/>
 
 
 <!--## About me-->
